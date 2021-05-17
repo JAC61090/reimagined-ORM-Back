@@ -25,5 +25,8 @@ No testing is currently set up
 
 ### Contact
 - Github JAC61090
+- https://github.com/JAC61090/reimagined-ORM-Back.git
+- https://drive.google.com/file/d/1LeEWjTYy41tMeyLzfGUSzo46IcsSOF5-/view
+
 
   
